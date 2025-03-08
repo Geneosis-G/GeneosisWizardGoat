@@ -1,0 +1,69 @@
+The master of Maaagic!
+
+After several years in Hogoarts you are finally readdy to show your powers to the world! Make everything burn, unleash the terrible storm, attract and reject things with magnetism, move objects with your mind and even decide who should live and who should better be dead.
+
+[b]FEATURES[/b]
+- WIZARD GOAT: You have magic powers.
+
+[b]COMMANDS[/b]
+- [b][1]:[/b] Switch on/off magic powers.
+- [b][G]:[/b] Select preview spell.
+- [b][H]:[/b] Select next spell.
+- [b][RightClick] + [Shift]:[/b] Move magic sphere further.
+- [b][RightClick] + [Control]:[/b] Move magic sphere closer.
+- [b]Fire Magic + [2]:[/b] Fire explosion.
+- [b]Wind Magic + [2]:[/b] Change direction of rotation of the storm.
+- [b]Magnet Magic + [2]:[/b] Switch attraction/repulsion effect.
+- [b]Mind Magic + [2]:[/b] Grab the item on the magic sphere.
+- [b]Life Magic + [2]:[/b] Switch life/death effect.
+
+[b]GAMEPAD COMMANDS[/b]
+- [b][Y]:[/b] Switch on/off magic powers.
+- [b][DPadLeft]:[/b] Select preview spell.
+- [b][DPadRight]:[/b] Select next spell.
+- [b][LB] + [RT]:[/b] Move magic sphere further.
+- [b][LB] + [LT]:[/b] Move magic sphere closer.
+- [b]Fire Magic + [RB]:[/b] Fire explosion.
+- [b]Wind Magic + [RB]:[/b] Change direction of rotation of the storm.
+- [b]Magnet Magic + [RB]:[/b] Switch attraction/repulsion effect.
+- [b]Mind Magic + [RB]:[/b] Grab the item on the magic sphere.
+- [b]Life Magic + [RB]:[/b] Switch life/death effect.
+
+[b]CHARACTERISTICS[/b]
+- The magic sphere is always located in the direction of the camera.
+- When magic is not active, you will see a sparkling magic sphere.
+- Fire Magic sphere burn everything it touch.
+- Magic flames propagate to other objects on contact.
+- When magic flames stop on an explosive object, it will explode.
+- Using Mind Magic, the magic sphere produce sparks when you can grab an item and stop when you grabbed one.
+- Life Magic in life mode will resurrect dead bodies and give them 10 "lives".
+- Life Magic in death mode will kill living creatures forever (life magic resurrection still works).
+
+[b]EASTER EGGS[/b]
+- [spoiler]As magic flames are only transmitter by collisions, if you use Wind or Magnet magic on burning objects you can keep the fire alive.[/spoiler]
+- [spoiler]If you go ragdoll when using Wind or Magnet magic, you will probably be propulsed really fast in the direction of the magic sphere.[/spoiler]
+- [spoiler]Death Magic can be used to kill Zombies.[/spoiler]
+- [spoiler]Life Magic can be used to bring to life bodies that have never been alive before.[/spoiler]
+
+[b]KNOWN BUGS[/b]
+- The Fire Magic sphere don't burn ragdolled body on contact (you can still burn them with the explosion).
+
+[b]FAQ[/b]
+[i]Before starting any of the following steps [b]close Goat Simulator[/b][/i].
+
+- How do I use this mod?
+[i]First hit the [+ Subscribe] button on this page to download the mod. After doing that Steam should start downloading the mod (you can see the progress at the bottom of your Steam window), wait for the download to complete before starting your game. In the main menu of the game, select Custom Game, then you will see a list of all the mutators installed on your computer. Click on the mutators you want in this list to add them to your goat.[/i]
+
+- The mod is installed but does nothing when I use it, what should I do?
+[i]Unsubscribe to the mod, Steam will update the game wait for the end of this update before doing the next steps. Open the file "C:\ Program Files (x86) \Steam \SteamApps \common \GoatSimulator \GoatGame \Config \GoatMod.ini" (or "GoatMod") with notepad and delete its content. Read the preview instructions if you want to reinstall the mod.[/i]
+
+- My game is crashing at startup, what do I do?
+[i]Try to follow [url=http://steamcommunity.com/sharedfiles/filedetails/?id=247411111]this guide[/url] and see if it fixed your problem. If not, I don't think I can do anything more sorry.[/i]
+
+[b]DEV NOTES[/b]
+[quote=About this mod]Probably the funniest mod I made so far, controlling this little magic ball is really awesome when you are used to it :) The idea of this mod came from a suggestion of Heavenly Cross on the Telekinetic Goat page to add a way to move the obects freely around you... After thinking a bit about it I imagined that the best way to do it was to control a dot in space and attach objects to it. Also the wizard hat inspired me and I wanted to make a mod that really gives you magic powers :p
+So I started with those two main objectives and quickly found some other fun magic powers I could add in this mod. The first I developped was the fire magic, the first version was working fine and making NPC burn correclt, but I thought that it was not really interesting to be only able to burn people so I decided to add a better fire propagation system that can be transmitted to any object and the final version is really cool ^^
+Then the Wind and Magnet magic are mostly taken from existing mutators so nothing too hard here.
+Now come the Mind Magic: a way to grab items from a distance. Finding a way to attach objects to the magic sphere was a bit harder than I thought and I ended up using the tongue code and the "grabber" included in it.
+In the end I added the life and death magics mainly to help with the Zombie Goat mod XD Also some people asked me for a way to kill permanently people, so here it is ;) You can eventually resurrect them after that if you changed your mind. Life magic also add an AI on the NPC if he didn't have one.
+[/quote]
